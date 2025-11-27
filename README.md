@@ -1,5 +1,5 @@
 # DMD2-2xP10-display
-based on https://github.com/tehniq3/DMD2-P10-display/
+based on https://github.com/tehniq3/DMD2-P10-display/ and used custom font: https://github.com/tehniq3/DMD2-P10-display/blob/main/Font_6x14niqro.h
 
 my article: https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-si-termometruhigrometru_25.html
 
