@@ -629,7 +629,7 @@ y = 1;
 // day and month
 //dmd.clearScreen();   //true is normal (all pixels off), false is negative (all pixels on)
 dmd.selectFont(SystemFont5x7);
-if (zi < 10) dmd.drawChar(x+1,y, '0');
+if (zi < 10) dmd.drawChar(x,y, '0');
 else
 dmd.drawChar(x,y, 48+zi1);
 dmd.drawChar(x+6,y, 48+zi2);
@@ -1024,3 +1024,4 @@ void putnr (byte nr, byte a, byte b)
    dmd.setPixel(a+2,b+i,smol[nr][i]%4%2);
   } 
 }
+
