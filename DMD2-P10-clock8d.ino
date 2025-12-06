@@ -631,7 +631,8 @@ secunda20 = secunda2;
 
 if (reglaj == 0)
 {
-if (secunda == secunda3)
+//if (secunda == secunda3)
+if ((secunda == secunda3) and (nesters == 1))
 {
   dmd.clearScreen();
   h = dht.readHumidity();
@@ -648,11 +649,11 @@ if (secunda == secunda3)
         tz = tempC1/100;
         tu = (tempC1%100)/10;
         ts = (tempC1%100)%10;
+  nesters = 0;
 }
  
 if (secunda >= secunda3)
 {
-nesters = 0;
 x = 1;  
 y = 1;
  if (digitalRead(meniu) == LOW)
@@ -1069,4 +1070,5 @@ void putnr (byte nr, byte a, byte b)
    dmd.setPixel(a+2,b+i,smol[nr][i]%4%2);
   } 
 }
+
 
