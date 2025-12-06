@@ -302,6 +302,18 @@ if (secunda < secunda3)
 {
 if (reglaj == 0)
 {
+  if ((secunda == 0) and (nesters == 0))
+  { 
+  dmd.clearScreen();
+   ora10 = 11;
+   ora20 = 11;
+   minut10 = 11;
+   minut20 = 11;
+   secunda10 = 11;
+   secunda20 = 11;
+  // delay(1000);
+  nesters = 1;
+  }
  if (digitalRead(meniu) == LOW)
   {
 //  delay (pauzica);
@@ -723,6 +735,7 @@ else
 }
 //if (secunda == secunda3) dmd.clearScreen();
 //if (secunda == 59)
+  /*
 if ((secunda == 0) and (nesters == 0))
 { 
 dmd.clearScreen();
@@ -735,6 +748,7 @@ dmd.clearScreen();
   // delay(1000);
   nesters = 1;
 }
+  */
 }
 } // stare = 0 - usual clock
 
@@ -1055,3 +1069,4 @@ void putnr (byte nr, byte a, byte b)
    dmd.setPixel(a+2,b+i,smol[nr][i]%4%2);
   } 
 }
+
