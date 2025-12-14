@@ -1,7 +1,10 @@
 # DMD2-2xP10-display
 based on https://github.com/tehniq3/DMD2-P10-display/ and used custom font: https://github.com/tehniq3/DMD2-P10-display/blob/main/Font_6x14niqro.h
 
-my article: https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-si-termometruhigrometru_25.html
+my articles:
+- https://nicuflorica.blogspot.com/2025/12/ceas-cu-reglaj-si-termometruhigrometru_14.html
+- https://nicuflorica.blogspot.com/2025/12/ceas-cu-reglaj-si-termometruhigrometru.html
+- https://nicuflorica.blogspot.com/2025/11/ceas-cu-reglaj-si-termometruhigrometru_25.html
 
 ![1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOyT8vHQ_3IjTriA-tdHKpQHL2-sfR5EOJ9K-pZSA3HhHNaePTSshc5uw94zoueMPxmR-hx1gP6j26KQiv0Wx6vTqNRE4xyqeZ6zKqr-_txPGuH_hCOOhOK6OWJROqh3DeYBeGJW4uR-mGar1BxLX10-H30kSbZeXhRqnac_dM-6rtAOanwYwilU-dyTz9/w200-h93/12pmbold2.jpg)
 ![2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkUy739ZR6-bH_WCfzkmjfV_cTEDCuzMTkxs9BK2b7g3qdQ4_lzjpNjeSgfn8KeRGhpPvDnbxhI5l3TQtTkFeikKfHY4OQUuEyzCzrO27HNY7Olc5CYuL2ZUVf2ANzK4olEUg8w2GvBul1PP0tuNuk7WM4RM1K7WT7cTjOVDuE3CGBAu_8szPbfm0z0ETJ/w200-h93/datatrtmometru1.jpg)
